@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Java / Maven
+target/
+*.class
+.mvn/wrapper/maven-wrapper.jar
+!backend/.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Logs & Environment
+*.log
+.env
+.env.production
